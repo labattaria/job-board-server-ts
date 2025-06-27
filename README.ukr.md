@@ -12,7 +12,7 @@
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
 [![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](#)
 
-Це сервер Express/GraphQL/Apollo з [Job Board server](https://github.com/labattaria/job-board-server) репозиторію, але перенесений на TypeScript
+Це сервер Express/GraphQL/Apollo з [Job Board server](https://github.com/labattaria/job-board-server) репозиторію, але перенесений на TypeScript.
 Серверний застосунок був трохи відрефакторений із використанням TypeScript, що додало типобезпечність коду
 
 Він використовує генератор коду GraphQL TypeScript, який дозволяє нам генерувати TypeScript-типи з нашої GraphQL-схеми
