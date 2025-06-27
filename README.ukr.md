@@ -21,7 +21,7 @@
 
 Цей сервер — лише частина додатку, друга частина (клієнтська) знаходиться в цьому репо: [Job Board typescript client](https://github.com/labattaria/job-board-client-ts)
 
-Застосунок у цьому репозиторії розгорнуто за адресою: [https://render.com](https://render.com), за цією URL-адресою: [job-board-server-ts.onrender.com/graphql](https://job-board-server-ts.onrender.com/graphql)
+Застосунок у цьому репозиторії розгорнуто за адресою: [https://render.com](https://render.com), за цією URL-адресою: [https://job-board-server-ts.onrender.com/graphql](https://job-board-server-ts.onrender.com/graphql)
 
 ## Залежностi, якi використовуються:
 

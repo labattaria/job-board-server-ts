@@ -21,7 +21,7 @@ The code generator also creates TypeScript types for our resolvers, making them 
 
 This server is only part of the application, the second part (the client) is located at this repo: [Job Board typescript client](https://github.com/labattaria/job-board-client-ts)
 
-The app in this repo is deployed at [https://render.com](https://render.com), hosting public URL: [job-board-server-ts.onrender.com/graphql](https://job-board-server-ts.onrender.com/graphql)
+The app in this repo is deployed at [https://render.com](https://render.com), hosting public URL: [https://job-board-server-ts.onrender.com/graphql](https://job-board-server-ts.onrender.com/graphql)
 
 ## Used dependencies:
 
