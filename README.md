@@ -12,7 +12,8 @@
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
 [![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](#)
 
-This is the Express/GraphQL/Apollo server from the [Job Board server](https://github.com/labattaria/job-board-server) repo, but migrated and converted to TypeScript.
+This is the Express/GraphQL/Apollo server from the [Job Board server](https://github.com/labattaria/job-board-server) repo, but migrated and converted to TypeScript
+
 The server-side application was slightly refactored using TypeScript, which added type safety to the code
 
 It uses the GraphQL TypeScript code generator, which allows us to generate TypeScript definitions from our GraphQL schema
