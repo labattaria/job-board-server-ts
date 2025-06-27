@@ -1,4 +1,8 @@
+**Read in another language: [Українська](README.ukr.md), [English](README.md).**
+
 # Job Board typescript server
+
+---
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
