@@ -14,12 +14,14 @@
 
 This is the Express/GraphQL/Apollo server from the [Job Board server](https://github.com/labattaria/job-board-server) repo, but migrated and converted to TypeScript
 The server-side application was slightly refactored using TypeScript, which added type safety to the code
+
 It uses the GraphQL TypeScript code generator, which allows us to generate TypeScript definitions from our GraphQL schema
+
 The code generator also creates TypeScript types for our resolvers, making them more type-safe
 
 This server is only part of the application, the second part (the client) is located at this repo: [Job Board typescript client](https://github.com/labattaria/job-board-client-ts)
 
-The app in this repo is deployed at [https://render.com](https://render.com), hosting public URL: [job-board-server-ts.onrender.com/graphql](job-board-server-ts.onrender.com/graphql)
+The app in this repo is deployed at [https://render.com](https://render.com), hosting public URL: [job-board-server-ts.onrender.com/graphql](https://job-board-server-ts.onrender.com/graphql)
 
 ## Used dependencies:
 
